@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_my_name">Cesar Jacob Martinez Alvarenga</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="txt_view_map">View Map</string>
+    <string name="txt_my_address">En esta aplicación se muestra el mapa de la casa de César Martinez, ubicada en la ciudad de Santa Rosa de Lima, La Unión, El Salvador. \n Da clic en el siguiente boton para ver el Mapa.</string>
+</resources>
